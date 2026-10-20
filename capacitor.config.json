@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.app",
+  "appName": "ayotrip-mobile",
+  "webDir": "dist",
+  "server": {
+    "url": "http://localhost:5173/",
+    "cleartext": true
+  }
+}
